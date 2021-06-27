@@ -1,6 +1,12 @@
 # Attendance Quality Analyser
 
 Attendance Quality Analyser is a project deployed using streamlit.
+## Team Members:
+Aditi Kulkarni
+Dania Juvale 
+Nandinee Kaushik
+Reeha Parkar 
+Shruti Waghade
 
 ## Project Overview:
 
