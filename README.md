@@ -1,6 +1,12 @@
 # Attendance Quality Analyser
 
 Attendance Quality Analyser is a project deployed using streamlit.
+## Team Members:
+Aditi Kulkarni<br>
+Dania Juvale <br>
+Nandinee Kaushik<br>
+Reeha Parkar <br>
+Shruti Waghade<br>
 
 ## Project Overview:
 
@@ -13,7 +19,7 @@ The main objective of the app is to improve the quality of the teaching-learning
 
 The student only has to turn on their web camera at the start of a lecture and then at the end of it, mark their attendance at the click of a button.
 
-While this is happening, the student's behaviour is analysed and features like closing of eyes, yawning, and emotions during lecture are extracted and quantified. This is converted into a numerical factor that determines if the student is focused or distracted. 
+While this is happening, the student's behaviour is analysed and features like closing of eyes, yawning, and emotions during lecture are extracted and quantified. This is converted into a numerical factor that determines if the student is focused or distracted.
 
 The teacher, after authentication with a username and password, can then observe the student's attendance and engagaement level for a day or a range of days. All this is visualised and student's general engagement level is identified.
 
