@@ -27,6 +27,7 @@ cryptography==3.4.7
 cycler==0.10.0
 decorator==5.0.9
 defusedxml==0.7.1
+dlib==19.22.0
 dnspython==2.1.0
 entrypoints==0.3
 et-xmlfile==1.1.0
